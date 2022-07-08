@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Vichislav/jest-unit#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
